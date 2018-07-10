@@ -1,0 +1,23 @@
+missing module named resource - imported by posix, C:\Users\ciwolsey\Desktop\MidiSaber\MidiSaber.py
+missing module named posix - imported by os, C:\Users\ciwolsey\Desktop\MidiSaber\MidiSaber.py
+missing module named _posixsubprocess - imported by subprocess, C:\Users\ciwolsey\Desktop\MidiSaber\MidiSaber.py
+missing module named org - imported by pickle, C:\Users\ciwolsey\Desktop\MidiSaber\MidiSaber.py
+missing module named readline - imported by cmd, code, pdb, C:\Users\ciwolsey\Desktop\MidiSaber\MidiSaber.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, C:\Users\ciwolsey\Desktop\MidiSaber\MidiSaber.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, C:\Users\ciwolsey\Desktop\MidiSaber\MidiSaber.py
+missing module named _winreg - imported by platform, C:\Users\ciwolsey\Desktop\MidiSaber\MidiSaber.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, C:\Users\ciwolsey\Desktop\MidiSaber\MidiSaber.py
+missing module named 'java.lang' - imported by platform, C:\Users\ciwolsey\Desktop\MidiSaber\MidiSaber.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, C:\Users\ciwolsey\Desktop\MidiSaber\MidiSaber.py
+missing module named termios - imported by tty, C:\Users\ciwolsey\Desktop\MidiSaber\MidiSaber.py, getpass
+missing module named grp - imported by shutil, tarfile, C:\Users\ciwolsey\Desktop\MidiSaber\MidiSaber.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, C:\Users\ciwolsey\Desktop\MidiSaber\MidiSaber.py, netrc, getpass
+missing module named _dummy_threading - imported by dummy_threading, C:\Users\ciwolsey\Desktop\MidiSaber\MidiSaber.py
+missing module named 'org.python' - imported by copy, C:\Users\ciwolsey\Desktop\MidiSaber\MidiSaber.py, xml.sax
+missing module named AppKit - imported by pyperclip
+missing module named Foundation - imported by pyperclip
+missing module named PyQt4 - imported by pyperclip
+missing module named PyQt5 - imported by pyperclip
+missing module named qtpy - imported by pyperclip
+missing module named gtk - imported by pyperclip
