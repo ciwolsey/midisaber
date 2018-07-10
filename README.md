@@ -6,7 +6,7 @@ Load up your favourite audio software, and create a midi clip with a single note
 ```
 MidiSaber <MidiFile>
 ```
-MidiSaber will prompt you for a BPM. This is the BPM you used when creating the midi file. Midi converion is performed in real time so if your song is 2 minutes long conversion will take 2 minutes.
+MidiSaber will prompt you for a BPM. This is the BPM you used when creating the midi file. Midi converion is performed in real time so if your song is two minutes long conversion will take two minutes.
 
 # MidiSaber online editor
 
