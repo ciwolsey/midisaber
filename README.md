@@ -6,10 +6,9 @@ Load up your favourite audio software, and create a midi clip with a single note
 ```
 MidiSaber <MidiFile>
 ```
-MidiSaber will prompt you for a BPM. This is the BPM you used when creating the midi file. Midi converion is performed in real time so if your song is two minutes long conversion will take two minutes.
+MidiSaber will prompt you for a BPM. This is the BPM you used when creating the midi file. Midi converion is performed in real time so if your song is two minutes long conversion will take two minutes. MidiSaber only supports track midi (midi type 0).
 
 # MidiSaber online editor
-
 Once conversion completes the resulting JSON will be copied to your clipboard. Paste this into your beatmap and then load the map into your favourite editor.
 MidiSaber can be used with any editor, but is intended to be used with it's owned editor that you can find at:
 https://beatmapper.surge.sh - Just import your song and the JSON, edit away and when done hit export and copy it back out into your beatmap.
