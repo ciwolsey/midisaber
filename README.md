@@ -12,3 +12,5 @@ MidiSaber will prompt you for a BPM. This is the BPM you used when creating the 
 Once conversion completes the resulting JSON will be copied to your clipboard. Paste this into your beatmap and then load the map into your favourite editor.
 MidiSaber can be used with any editor, but is intended to be used with it's owned editor that you can find at:
 https://beatmapper.surge.sh - Just import your song and the JSON, edit away and when done hit export and copy it back out into your beatmap.
+
+You can load any song you like into the online editor, but it is intended to be used alongside the midi converter.
