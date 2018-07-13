@@ -10,7 +10,7 @@ The converted JSON will be placed in your clipboard.
 
 Alternatively you can drag your midi file onto MidiSaber.exe.
 
-MidiSaber will prompt you for a BPM. This is the BPM you used when creating the midi file. Midi converion is performed in real time so if your song is two minutes long conversion will take two minutes. MidiSaber only supports track midi (midi type 0).
+MidiSaber will prompt you for a BPM. This is the BPM you used when creating the midi file. Midi conversion is performed in real time so if your song is two minutes long conversion will take two minutes. MidiSaber only supports track midi (midi type 0).
 
 # MidiSaber online editor
 Once conversion completes the resulting JSON will be copied to your clipboard. Paste this into your beatmap and then load the map into your favourite editor.
