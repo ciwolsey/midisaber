@@ -6,6 +6,10 @@ Load up your favourite audio software, and create a midi clip with a single note
 ```
 MidiSaber <MidiFile>
 ```
+The converted JSON will be placed in your clipboard.
+
+Alternatively you can drag your midi file onto MidiSaber.exe.
+
 MidiSaber will prompt you for a BPM. This is the BPM you used when creating the midi file. Midi converion is performed in real time so if your song is two minutes long conversion will take two minutes. MidiSaber only supports track midi (midi type 0).
 
 # MidiSaber online editor
