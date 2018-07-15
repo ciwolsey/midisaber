@@ -20,4 +20,4 @@ https://beatmapper.surge.sh - Just import your song and the JSON, edit away and 
 You can load any song you like into the online editor, but it is intended to be used alongside the midi converter.
 
 # Videos
-[Authoring your beat in a DAW]: https://www.youtube.com/watch?v=y1CPDLij8ys&feature=youtu.be
+[Authoring your beat in a DAW](https://www.youtube.com/watch?v=y1CPDLij8ys&feature=youtu.be)
