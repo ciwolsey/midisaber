@@ -20,6 +20,6 @@ https://beatmapper.surge.sh - Just import your song and the JSON, edit away and 
 You can load any song you like into the online editor, but it is intended to be used alongside the midi converter.
 
 # Videos
-[Ceating MIDI for MidiSaber](https://www.youtube.com/watch?v=y1CPDLij8ys&feature=youtu.be)
+[Creating MIDI for MidiSaber](https://www.youtube.com/watch?v=y1CPDLij8ys&feature=youtu.be)
 
 
