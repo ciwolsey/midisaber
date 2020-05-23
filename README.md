@@ -1,3 +1,5 @@
+## ** NO LONGER MAINTAINED **
+
 # MidiSaber
 MidiSaber can convert a MIDI file into the json format used by BeatSaber. Midi is used to define the timing of your beatmap which can then be imported to a new online editor which allows you 'step through' the timings to define position and cut etc.
 
